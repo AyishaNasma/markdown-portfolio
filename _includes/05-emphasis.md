@@ -1,2 +1,2 @@
-*this text will be italic*
-**this text will be bold**
+*This text will be italic*
+_This will also be italic_
